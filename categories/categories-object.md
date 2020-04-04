@@ -1,6 +1,6 @@
 # Categories object
 
-| **Property** |  | **Type** |  | **Description** |
+| **Attribute Name** |  | **Type** |  | **Description** |
 | :--- | :--- | :--- | :--- | :--- |
 | **id** |  | number |  | The unique ID of the category. |
 | **name** |  | string |  | The name of the category. Must be between 1 and 40 characters |
