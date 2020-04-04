@@ -11,5 +11,5 @@
 | **updated\_at** |  | string |  | The date and time of when the category was last updated (in the ISO 8601 extended format). |
 | **created\_at** |  | string |  | The date and time of when the category was last updated (in the ISO 8601 extended format). |
 | **is\_group** |  | boolean |  | If `true`, the category is treated as a group. |
-| **group\_id** |  | number |  | The ID of the category group this category belongs to, or `null` if the category doesn't belong to a category group. |
+| **group\_id** |  | number |  | The ID of a category group or `null` if the category doesn't belong to a category group. |
 
